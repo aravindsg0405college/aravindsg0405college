@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aravindsg0405college (ARAVIND)
+- Im a freshmen Student 2023 in California USA
+- 👀 I’m interested in learning programming and aspects of computer science
+- 🌱 I’m currently learning introduction to python 
+- 💞️ I’m looking to collaborate on sharing code, looking at good code and sharing my work
